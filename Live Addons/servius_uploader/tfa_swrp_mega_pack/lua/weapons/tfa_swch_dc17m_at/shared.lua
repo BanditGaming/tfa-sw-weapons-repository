@@ -21,7 +21,7 @@ end
 
 SWEP.HoldType				= "rpg"
 SWEP.Base					= "tfa_swsft_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 
 SWEP.Spawnable				= true
 SWEP.AdminOnly			= true
@@ -37,7 +37,7 @@ SWEP.Primary.Sound = Sound ("weapons/explosives_cannons_superlazers/dc17m_at_fir
 SWEP.Primary.ReloadSound = Sound ("weapons/shared/standard_reload.ogg");
 
 SWEP.Primary.Recoil			= 10
-SWEP.Primary.Damage			= 200
+SWEP.Primary.Damage			= 155
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.05
 SWEP.Primary.ClipSize		= 1
