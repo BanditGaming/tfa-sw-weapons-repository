@@ -12,7 +12,7 @@ if ( CLIENT ) then
 end
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_3dscoped_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Blaster Rifles"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.ViewModel				= "models/weapons/v_EE3.mdl"
@@ -23,7 +23,7 @@ SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Sound = Sound ("weapons/ee3/EE3_fire.ogg");
 SWEP.Primary.ReloadSound = Sound ("weapons/shared/standard_reload.ogg");
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 70
+SWEP.Primary.Damage			= 20
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread		    = 0.0125				--This is hip-fire acuracy.  Less is more (1 is horribly awful, .0001 is close to perfect)
 SWEP.Primary.IronAccuracy   = 0.0111
