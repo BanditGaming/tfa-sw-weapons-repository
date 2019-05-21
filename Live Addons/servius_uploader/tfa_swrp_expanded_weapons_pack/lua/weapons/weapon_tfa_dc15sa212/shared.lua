@@ -22,7 +22,7 @@ end
 SWEP.HoldType				= "pistol"
 SWEP.Base					= "tfa_swsft_base_servius"
 
-SWEP.Category = "TFA Star Wars: Color Force"
+SWEP.Category = "TFA Blaster Pistols"
 
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
@@ -39,7 +39,7 @@ SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 50
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.0125
 SWEP.Primary.IronAccuracy = .005	-- Ironsight accuracy, should be the same for shotguns
