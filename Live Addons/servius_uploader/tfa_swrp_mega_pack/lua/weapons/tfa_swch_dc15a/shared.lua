@@ -12,7 +12,7 @@ if ( CLIENT ) then
 end
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_swsft_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Blaster Rifles"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.HoldType = "ar2"
@@ -33,7 +33,7 @@ SWEP.Weight					= 5
 SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 50
+SWEP.Primary.Damage			= 18
 SWEP.Primary.NumShots		= 1
 -- Selective Fire Stuff
 SWEP.SelectiveFire		= true --Allow selecting your firemode?
