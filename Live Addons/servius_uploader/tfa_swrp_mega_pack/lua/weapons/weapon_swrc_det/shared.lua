@@ -3,7 +3,7 @@ AddCSLuaFile( )
 SWEP.Author = ""
 SWEP.Instructions = ""
 SWEP.Purpose = ""
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 
 SWEP.Slot			= 4
 SWEP.SlotPos			= 1
