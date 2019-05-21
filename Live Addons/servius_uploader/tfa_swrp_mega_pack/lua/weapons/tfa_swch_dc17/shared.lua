@@ -14,7 +14,7 @@ end
 
 SWEP.HoldType = "pistol"
 SWEP.Base = "tfa_swsft_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Blaster Pistols"
 SWEP.Spawnable = true
 SWEP.AdminSpawnable = true
 SWEP.ViewModel = "models/weapons/v_DC17.mdl"
@@ -25,7 +25,7 @@ SWEP.Weight = 5
 SWEP.AutoSwitchTo = false
 SWEP.AutoSwitchFrom = false
 SWEP.Primary.Recoil = 0.5
-SWEP.Primary.Damage = 50
+SWEP.Primary.Damage = 20
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Spread = 0.0125
 SWEP.Primary.ClipSize = 25
