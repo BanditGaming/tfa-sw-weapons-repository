@@ -38,7 +38,7 @@ SWEP.WElements = {
 	["kyd21"] = { type = "Model", model = "models/weapons/w_KYD21.mdl", bone = "ValveBiped.Bip01_L_Hand", rel = "", pos = Vector(10, 2, 3.665), angle = Angle(360, 270, 360), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} }
 }
 SWEP.Base					= "tfa_swsft_base_servius"
-SWEP.Category				= "TFA Star Wars"
+SWEP.Category				= "TFA Blaster Pistols"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.Primary.Sound 			= Sound("weapons/kyd21/KYD21_fire.ogg")	-- This is the sound of the weapon, when you shoot.
@@ -51,7 +51,7 @@ SWEP.Weight					= 5
 SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 50
+SWEP.Primary.Damage			= 15
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread		= 0.0125
 SWEP.Primary.IronAccuracy = .005	-- Ironsight accuracy, should be the same for shotguns
