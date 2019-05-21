@@ -17,7 +17,7 @@ end
 
 SWEP.HoldType				= "rpg"
 SWEP.Base					= "tfa_swsft_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 
 SWEP.Spawnable				= true
 SWEP.AdminOnly			= true
