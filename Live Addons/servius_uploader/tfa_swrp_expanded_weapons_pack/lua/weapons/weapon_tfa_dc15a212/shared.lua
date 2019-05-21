@@ -22,7 +22,7 @@ end
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_swsft_base_servius"
 
-SWEP.Category = "TFA Blaster Pistols"
+SWEP.Category = "TFA Blaster Rifles"
 
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
