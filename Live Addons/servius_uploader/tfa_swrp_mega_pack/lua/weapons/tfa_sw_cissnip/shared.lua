@@ -3,7 +3,7 @@ if (GetConVar(SWEP.Gun.."_allowed")) != nil then
 	if not (GetConVar(SWEP.Gun.."_allowed"):GetBool()) then SWEP.Base = "tfa_blacklisted" SWEP.PrintName = SWEP.Gun return end
 end
 SWEP.Base				= "tfa_gun_base"
-SWEP.Category				= "TFA Star Wars" --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..  
+SWEP.Category				= "TFA Sniper Rifles" --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..  
 SWEP.Manufacturer = nil --Gun Manufactrer (e.g. Hoeckler and Koch )
 SWEP.Author				= "TFA" --Author Tooltip
 SWEP.Contact				= "http://www.steamcommunity.com/id/theforgottenarchitect" --Contact Info Tooltip
@@ -27,7 +27,7 @@ SWEP.Weight				= 30			-- This controls how "good" the weapon is for autopickup.
 SWEP.Primary.Sound 			= Sound("weapons/shared/shared_cissniper_fire.ogg")				-- This is the sound of the weapon, when you shoot.
 SWEP.Primary.SilencedSound 			= nil				-- This is the sound of the weapon, when silenced.
 SWEP.Primary.PenetrationMultiplier = 1 --Change the amount of something this gun can penetrate through
-SWEP.Primary.Damage		= 150					-- Damage, in standard damage points.
+SWEP.Primary.Damage		= 95					-- Damage, in standard damage points.
 SWEP.Primary.HullSize = 0.5 --Big bullets, increase this value.  They increase the hull size of the hitscan bullet.
 SWEP.DamageType = DMG_SHOCK--See DMG enum.  This might be DMG_SHOCK, DMG_BURN, DMG_BULLET, etc.
 SWEP.Primary.NumShots	= 1 --The number of shots the weapon fires.  SWEP.Shotgun is NOT required for this to be >1.
