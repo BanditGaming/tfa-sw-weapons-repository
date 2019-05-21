@@ -10,7 +10,7 @@ if ( CLIENT ) then
 end
 SWEP.HoldType				= "rpg"
 SWEP.Base					= "tfa_swsft_base_servius"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.ViewModelFOV = 90.251256281407
@@ -40,7 +40,7 @@ SWEP.Weight					= 15
 SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 20
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.005
 SWEP.Primary.IronAccuracy = .005	-- Ironsight accuracy, should be the same for shotguns
