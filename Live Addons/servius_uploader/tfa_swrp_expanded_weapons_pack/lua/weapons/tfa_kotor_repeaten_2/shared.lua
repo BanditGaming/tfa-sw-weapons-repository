@@ -9,7 +9,7 @@ if ( CLIENT ) then
 	SWEP.SlotPos = 3
 end
 SWEP.Base = "tfa_3dscoped_base"
-SWEP.Category = "TFA Blaster Rifles"
+SWEP.Category = "TFA Heavy Weapons"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.HoldType = "ar2"
