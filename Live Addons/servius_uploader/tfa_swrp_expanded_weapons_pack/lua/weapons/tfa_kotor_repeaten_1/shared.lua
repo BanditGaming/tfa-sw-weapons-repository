@@ -10,7 +10,7 @@ if ( CLIENT ) then
 end
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_swsft_base_servius"
-SWEP.Category = "TFA Blaster Rifles"
+SWEP.Category = "TFA Heavy Weapons"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.HoldType = "ar2"
