@@ -14,7 +14,7 @@ SWEP.ViewModelBoneMods = {
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_gun_base"
 
-SWEP.Category				= "Throneco StarWars"
+SWEP.Category				= "TFA Blaster Rifles"
 
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
@@ -49,7 +49,7 @@ function SWEP:ShootBullet( damage, num_bullets, aimcone )
 end
 
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 75
+SWEP.Primary.Damage			= 20
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.02
 SWEP.Primary.ClipSize		= 60
