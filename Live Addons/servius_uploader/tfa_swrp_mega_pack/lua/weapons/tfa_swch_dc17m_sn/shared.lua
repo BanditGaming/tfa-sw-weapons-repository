@@ -13,7 +13,7 @@ end
 
 SWEP.HoldType = "ar2"
 SWEP.Base = "tfa_swsft_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Sniper Rifles"
 SWEP.Spawnable = true
 SWEP.AdminSpawnable = true
 SWEP.ViewModel = "models/weapons/v_DC17M_SN.mdl"
@@ -24,7 +24,7 @@ SWEP.AutoSwitchFrom = false
 SWEP.Primary.Sound = Sound("weapons/dc17m_sn/dc17m_sn_fire.ogg")
 SWEP.Primary.ReloadSound = Sound("weapons/shared/standard_reload.ogg")
 SWEP.Primary.Recoil = 1
-SWEP.Primary.Damage = 100
+SWEP.Primary.Damage = 80
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Spread = 0.00625
 SWEP.Primary.ClipSize = 5
