@@ -16,7 +16,7 @@ end
 SWEP.HoldType				= "crossbow"
 SWEP.Base					= "tfa_swsft_base"
 
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
@@ -89,7 +89,7 @@ SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 
 SWEP.Primary.Recoil			= 0.5
-SWEP.Primary.Damage			= 25
+SWEP.Primary.Damage			= 20
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.01
 SWEP.Primary.ClipSize		= 250
