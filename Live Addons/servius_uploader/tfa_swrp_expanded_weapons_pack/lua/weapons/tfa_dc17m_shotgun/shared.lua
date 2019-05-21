@@ -12,7 +12,7 @@ if ( CLIENT ) then
 end
 SWEP.HoldType				= "ar2"
 SWEP.Base					= "tfa_swsft_base_servius"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Heavy Weapons"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.ViewModel				= "models/weapons/v_dc17m_at.mdl"
@@ -23,7 +23,7 @@ SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Sound = Sound ("weapons/1misc_guns/WPN_B2_BTLDROID_HVY_LASER_SHOOT_01.ogg");
 SWEP.Primary.ReloadSound = Sound("weapons/shared/standard_reload.ogg");
 SWEP.Primary.Recoil			= 0.9
-SWEP.Primary.Damage			= 55
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 3
 SWEP.Primary.Spread			= 0.075
 SWEP.Primary.IronAccuracy = .074	-- Ironsight accuracy, should be the same for shotguns
