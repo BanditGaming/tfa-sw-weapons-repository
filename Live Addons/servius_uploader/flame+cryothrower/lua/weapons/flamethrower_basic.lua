@@ -1,6 +1,6 @@
 SWEP.NZPaPName = "Flamethrower"
 SWEP.Base				= "tfa_gun_base"
-SWEP.Category				= "TFA Star Wars" --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..
+SWEP.Category				= "TFA Heavy Weapons " --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..
 SWEP.Manufacturer = nil --Gun Manufactrer (e.g. Hoeckler and Koch )
 SWEP.Author				= "" --Author Tooltip
 SWEP.Contact				= "" --Contact Info Tooltip
@@ -23,7 +23,7 @@ SWEP.FireModeName = "Flamethrower"
 SWEP.Primary.Sound = Sound("") -- This is the sound of the weapon, when you shoot.
 SWEP.Primary.SilencedSound = nil -- This is the sound of the weapon, when silenced.
 SWEP.Primary.PenetrationMultiplier = 1 --Change the amount of something this gun can penetrate through
-SWEP.Primary.Damage = 95 -- Damage, in standard damage points.
+SWEP.Primary.Damage = 55 -- Damage, in standard damage points.
 SWEP.Primary.DamageTypeHandled = true --true will handle damagetype in base
 SWEP.Primary.DamageType = nil --See DMG enum.  This might be DMG_SHOCK, DMG_BURN, DMG_BULLET, etc.  Leave nil to autodetect.  DMG_AIRBOAT opens doors.
 SWEP.Primary.Force = nil --Force value, leave nil to autocalc
