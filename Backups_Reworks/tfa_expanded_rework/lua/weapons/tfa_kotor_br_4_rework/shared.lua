@@ -9,7 +9,7 @@ if ( CLIENT ) then
 	SWEP.SlotPos			= 3
 end
 SWEP.Base					= "tfa_3dscoped_base"
-SWEP.Category = "TFA Star Wars"
+SWEP.Category = "TFA Blaster Rifles"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.HoldType = "ar2"
@@ -27,7 +27,7 @@ SWEP.Weight					= 5
 SWEP.AutoSwitchTo			= false
 SWEP.AutoSwitchFrom			= false
 SWEP.Primary.Recoil			= 0.6
-SWEP.Primary.Damage			= 40
+SWEP.Primary.Damage			= 30
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Spread			= 0.0125
 SWEP.Primary.IronAccuracy = .001	-- Ironsight accuracy, should be the same for shotguns
