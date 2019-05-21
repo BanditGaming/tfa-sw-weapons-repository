@@ -3,7 +3,7 @@ if (GetConVar(SWEP.Gun.."_allowed")) != nil then
 	if not (GetConVar(SWEP.Gun.."_allowed"):GetBool()) then SWEP.Base = "tfa_blacklisted" SWEP.PrintName = SWEP.Gun return end
 end
 SWEP.Base				= "tfa_gun_base"
-SWEP.Category				= "TFA Star Wars" --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..  
+SWEP.Category				= "TFA Heavy Weapons" --The category.  Please, just choose something generic or something I've already done if you plan on only doing like one swep..  
 SWEP.Manufacturer = nil --Gun Manufactrer (e.g. Hoeckler and Koch )
 SWEP.Author				= "TFA" --Author Tooltip
 SWEP.Contact				= "http://www.steamcommunity.com/id/theforgottenarchitect" --Contact Info Tooltip
